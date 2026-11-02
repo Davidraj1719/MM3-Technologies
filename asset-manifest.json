@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MM3-Technologies/static/css/main.7f1a4666.css",
+    "main.js": "/MM3-Technologies/static/js/main.21738054.js",
+    "static/js/453.bb8576ea.chunk.js": "/MM3-Technologies/static/js/453.bb8576ea.chunk.js",
+    "index.html": "/MM3-Technologies/index.html",
+    "main.7f1a4666.css.map": "/MM3-Technologies/static/css/main.7f1a4666.css.map",
+    "main.21738054.js.map": "/MM3-Technologies/static/js/main.21738054.js.map",
+    "453.bb8576ea.chunk.js.map": "/MM3-Technologies/static/js/453.bb8576ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f1a4666.css",
+    "static/js/main.21738054.js"
+  ]
+}
